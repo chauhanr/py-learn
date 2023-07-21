@@ -1,0 +1,14 @@
+{
+   "firstName": "ritesh", 
+    "lastName": "chauhan", 
+    "hobbies": ["reading", "travelling", "learning"], 
+    "age": 42, 
+    "hasChildren": true, 
+    "children": [{
+       "firstName": "Atharv", 
+       "age": 11
+    },{
+       "firstName": "Sharanya", 
+       "age": 4
+    }]
+}
